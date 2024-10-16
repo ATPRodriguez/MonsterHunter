@@ -1,2 +1,7 @@
-# MonsterHunter
-Repositorio dedicada a la tarea de threads con tematica Monster Hunter
+<div style="text-align: center">
+    # **Monster Hunter**
+</div>
+
+<div align=justify>
+
+</div>
